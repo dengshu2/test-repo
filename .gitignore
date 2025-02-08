@@ -14,3 +14,5 @@ Thumbs.db
 # Log file
 *.log
 
+# Demo file
+demo.txt
