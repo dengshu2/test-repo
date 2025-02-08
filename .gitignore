@@ -1,0 +1,16 @@
+# System file
+.DS_Store
+Thumbs.db
+
+# Editor file
+.vscode
+.idea
+*.swp
+
+# Temporary file
+*.tmp
+*.temp
+
+# Log file
+*.log
+
